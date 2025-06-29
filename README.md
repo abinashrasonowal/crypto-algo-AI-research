@@ -46,5 +46,4 @@ This project is released under the MIT License.
 ## 🙋‍♂️ Author
 
 **Abinash Sonowal**  
-Quant + Crypto Enthusiast  
-[LinkedIn](#) | [Twitter](#) | [Email](#)
+Quant + Crypto Enthusiast 
