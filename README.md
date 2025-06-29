@@ -9,12 +9,15 @@ This repository is a collection of my personal research, experiments, and backte
 ## 🔍 Contents
 
 - 📈 **Strategy Backtesting:**  
-  - Momentum, Mean Reversion, Martingale variants, etc.
-  - Tested on historical crypto data (Binance, Bybit, etc.)
+  - Traditional strategies: Momentum, Mean Reversion, Martingale variants  
+  - AI-based strategies using:
+    - Reinforcement Learning agents (e.g., DQN, PPO)
+    - Supervised ML models (e.g., XGBoost, RF, CNN)
+  - Tested on historical crypto data (Binance)
 
 - 🛠 **Tools & Scripts:**  
-  - Backtesting engine (custom / third-party)
-  - Data fetching, preprocessing, and visualization
+  - Backtesting engine (custom)
+  - Data fetching, preprocessing
   - PnL tracking and risk metrics
 
 - 🧪 **Research Notes:**  
