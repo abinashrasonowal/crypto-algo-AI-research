@@ -9,7 +9,7 @@ This repository is a collection of my personal research, experiments, and backte
 ## 🔍 Contents
 
 - 📈 **Strategy Backtesting:**  
-  - Traditional strategies: Momentum, Mean Reversion, Martingale variants  
+  - Traditional strategies: Momentum, Mean Reversion 
   - AI-based strategies using:
     - Reinforcement Learning agents (e.g., DQN, PPO)
     - Supervised ML models (e.g., XGBoost, RF, CNN)
